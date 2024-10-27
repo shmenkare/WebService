@@ -1,0 +1,4 @@
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\ASP.NET\wsAritmetica\bin\wsAritmetica.dll
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\ASP.NET\wsAritmetica\bin\wsAritmetica.pdb
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\ASP.NET\wsAritmetica\obj\Debug\wsAritmetica.dll
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\ASP.NET\wsAritmetica\obj\Debug\wsAritmetica.pdb
